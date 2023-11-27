@@ -9,17 +9,17 @@
 
 - Acesso root: ``` sudo su ```
 - Iniciando o setoolkit: ``` setoolkit ```<br>
-  ![Alt text](./1.png "Optional title")
+  <img src="./1.png" alt="Optional title" width="300">
 - Tipo de ataque: ``` Social-Engineering Attacks ```<br>
-  ![Alt text](./2.png "Optional title")
+  <img src="./2.png" alt="Optional title" width="300">
 - Vetor de ataque: ``` Web Site Attack Vectors ```<br>
-  ![Alt text](./3.png "Optional title")
+  <img src="./3.png" alt="Optional title" width="300">
 - Método de ataque: ```Credential Harvester Attack Method ```<br>
-  ![Alt text](./4.png "Optional title")
+  <img src="./4.png" alt="Optional title" width="300">
 - Método de ataque: ``` Site Cloner ```<br>
-  ![Alt text](./5.png "Optional title")
+  <img src="./5.png" alt="Optional title" width="300">
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL clonada: http://www.facebook.com
 
 ### Resutados
-![Alt text](./6.png "Optional title").
+<img src="./6.png" alt="Optional title" width="300">
